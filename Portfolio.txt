@@ -1,0 +1,32 @@
+<html>
+<head><script src="https://github.com/Aferg12/PersonalPortfolio-.git"></script>
+<link rel="stylesheet" href="portfolio.css">
+</head>
+  
+  <body>
+
+<nav id="navbar">
+  <ul>
+    <li><a href="#welcome-section">Projects</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+
+<div id="welcome-section">
+  <h1>Abigail's Portfolio</h1>
+  <h2>Web Design and Development Student</h2>
+</div>
+  
+  
+  <div id="projects">
+  <div class="box"> <a href="https://codepen.io/sam-ush/pen/pKYWvL" targer="_blank" class="project-tile"><img src="file:///Users/abigailfergus/Desktop/blank-profile-picture-973460_640.png" alt="project"></a>
+    <div class="title"> Project - Title </div>
+  </div>
+<div id="projects">
+  <div class="box"> <a href="https://codepen.io/sam-ush/pen/pKYWvL" targer="_blank" class="project-tile"><img src="file:///Users/abigailfergus/Desktop/blank-profile-picture-973460_640.png" alt="project"></a>
+    <div class="title"> Project - Title </div>
+  </div>
+
+</body>
+
+</html>
